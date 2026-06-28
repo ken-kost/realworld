@@ -1,5 +1,9 @@
 /* This file is for your main application CSS */
 
+/* Conduit/RealWorld base styles, vendored from the (now-defunct)
+   //demo.productionready.io/main.css CDN so styling no longer depends on it. */
+@import "./conduit.css";
+
 /* Alerts and form errors used by phx.new */
 .alert {
   padding: 15px;
